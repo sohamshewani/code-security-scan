@@ -1,0 +1,6 @@
+click
+rich
+pytest
+bandit
+pylint
+astroid
